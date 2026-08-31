@@ -13,7 +13,7 @@
 
 | 순서 | Unit | 실제 강의 | 필기 파일 |
 |---:|---|---|---|
-| 1 | 컴퓨터 과학 기초 | 컴퓨터 과학 기초 | [dreamhack_cs_basic_summary.md](./01_dreamhack_cs_basic_summary.md) |
+| 1 | 컴퓨터 과학 기초 | 컴퓨터 과학 기초 | [01_dreamhack_cs_basic_summary.md](./01_dreamhack_cs_basic_summary.md) |
 | 2 | 컴퓨터 아키텍처 기초 | Background: Computer Architecture | [02_computer_architecture.md](./02_computer_architecture.md) |
 | 3 | Linux 메모리 레이아웃 | Background: Linux Memory Layout | [03_linux_memory_layout.md](./03_linux_memory_layout.md) |
 | 4 | GDB | GDB | [04_gdb.md](./04_gdb.md) |
